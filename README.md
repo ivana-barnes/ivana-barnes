@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ivana!
 
-<!--
-**ivana-barnes/ivana-barnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've built a couple Shiny apps for teaching/for fun and figured I'd showcase them here! Below are the links to the live Shiny apps, and to the repositories with my code.
 
-Here are some ideas to get you started:
+### 1. Wright's Neighborhood Size over a Heterogeneous Density Landscape
+An interactive R Shiny web application designed to visualize how Wright's Neighborhood Size changes across a landscape when density is heterogeneous.
+* **[Launch Live Shiny App](https://ivana-barnes.shinyapps.io/wrights-neighborhood-heterogeneous-density/)**
+* [Explore the Codebase](https://github.com/ivana-barnes/wrights-neighborhood-heterogeneous-density/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. Fitness Landscape
+An interactive R Shiny web application designed to visualize single-locus evolutionary fitness landscapes based on customizable genotype fitnesses.
+* **[Launch Live Shiny App](https://ivana-barnes.shinyapps.io/fitness-landscape/)**
+* [Explore the Codebase](https://github.com/ivana-barnes/fitness-landscape/)
+
+### 3. Bayesian Visualization
+An interactive R Shiny web application designed to visualize Bayesian concepts, specifically how the prior and likelihood distributions affect the posterior.
+* **[Launch Live Shiny App](https://ivana-barnes.shinyapps.io/bayesian-viz/)**
+* [Explore the Codebase](https://github.com/ivana-barnes/bayesian-viz/)

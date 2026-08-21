@@ -1,6 +1,7 @@
 # Hi, I'm Ivana! I just defended my masters in Ecology and Evolutionary Biology, and I'm looking for data science/computational biology jobs!
 
-Here is my CV:
+Here is my [CV](https://github.com/ivana-barnes/ivana-barnes/blob/main/Barnes_CV_2026.pdf)
+
 And my [Google Scholar](https://scholar.google.com/citations?hl=en&user=VY6XRNsAAAAJ)
 
 I've built a couple Shiny apps for teaching/for fun and figured I'd showcase them here! Below are the links to the live Shiny apps, and to the repositories with my code.

@@ -2,7 +2,7 @@
 
 I recently defended my MS in Ecology and Evolutionary Biology, and I'm looking for data science/computational biology jobs (and open to future Ph.D. opportunities)!
 
-Here is my [CV](https://github.com/ivana-barnes/ivana-barnes/blob/main/Barnes_CV_2026.pdf)
+Here are my [resume](https://github.com/ivana-barnes/ivana-barnes/blob/main/Ivana_Barnes_Resume.pdf) and [CV](https://github.com/ivana-barnes/ivana-barnes/blob/main/Barnes_CV_2026.pdf)
 
 And my [Google Scholar](https://scholar.google.com/citations?hl=en&user=VY6XRNsAAAAJ)
 

@@ -1,6 +1,6 @@
 # Hi, I'm Ivana! 
 
-I recently defended my MS in Ecology and Evolutionary Biology, and I'm looking for data science/computational biology jobs (and open to future Ph.D. opportunities)!
+I recently defended my MS in Ecology and Evolutionary Biology, and I'm looking for data science/computational biology jobs!
 
 Here are my [resume](https://github.com/ivana-barnes/ivana-barnes/blob/main/Ivana_Barnes_Resume.pdf) and [CV](https://github.com/ivana-barnes/ivana-barnes/blob/main/Barnes_CV_2026.pdf)
 
